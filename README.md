@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on ... **Gaming Projects**.
 - 🤔 I’m looking for ... help with any **C++** code.
 - 💬 Ask me about ...**Anything**
-- 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/idreesrazak/) or [Email](idreesshaikh6300@gmail.com)
+- 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/idreesrazak/)
 - 😄 Pronouns: ... **He/Him**
 - ⚡ Fun fact: I just completed my **2nd year** of University.
