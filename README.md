@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there it's me IDREES 👋
 
-<!--
-**idreesshaikh/idreesshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is what I'm doing these days**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... my **Python** skills.
+- 🌱 I’m currently learning ...**Javascript** and **Java**.
+- 👯 I’m looking to collaborate on ... **Gaming Projects**.
+- 🤔 I’m looking for ... help with any **C++** code.
+- 💬 Ask me about ...**Anything**
+- 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/idreesrazak/) or [Email](idreesshaikh6300@gmail.com)
+- 😄 Pronouns: ... **He/Him**
+- ⚡ Fun fact: I just completed my **2nd year** of University.
