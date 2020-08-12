@@ -1,4 +1,4 @@
-### Hi there it's me IDREES 👋
+## Hi there it's me IDREES 👋
 
 **This is what I'm doing these days**
 
@@ -10,3 +10,5 @@
 - 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/idreesrazak/)
 - 😄 Pronouns: ... **He/Him**
 - ⚡ Fun fact: I just completed my **2nd year** of University.
+
+### Software Engineering Student who is able to communicate effectively with a wide range of people by catering their needs with tact, diplomacy, and patience.
