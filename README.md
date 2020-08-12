@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ... my **Python** skills.
 - 🌱 I’m currently learning ...**Java**.
 - 👯 I’m looking to collaborate on ... **Gaming Projects**.
-- 🤔 I’m looking for ... help with any **Javascript** code.
+- 🤔 I’m looking for ... an **Internship** opportunity.
 - 💬 Ask me about ...**Anything**
 - 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/idreesrazak/)
 - 😄 Pronouns: ... **He/Him**
