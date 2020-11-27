@@ -2,8 +2,8 @@
 
 **This is what I'm doing these days**
 
-- 🔭 I’m currently working on ... my **Python** skills.
-- 🌱 I’m currently learning ...**JavaScript**.
+- 🔭 I’m currently working on ... my **Python and Pytorch** project.
+- 🌱 I’m currently learning ...**Java** skills.
 - 👯 I’m looking to collaborate on ... **Gaming Projects**.
 - 🤔 I’m looking for ... an **Internship** opportunity.
 - 💬 Ask me about ...**Anything**
