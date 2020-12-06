@@ -5,10 +5,9 @@
 - 🔭 I’m currently working on ... my **Python and Pytorch** project.
 - 🌱 I’m currently learning ...**Java** skills.
 - 👯 I’m looking to collaborate on ... **Gaming Projects**.
-- 🤔 I’m looking for ... an **Internship** opportunity.
 - 💬 Ask me about ...**Anything**
 - 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/idreesrazak/)
 - 😄 Pronouns: ... **He/Him**
-- ⚡ Fun fact: I just completed my **2nd year** of University.
+- ⚡ Fun fact: I'm about to finish my **5th** semester.
 
 ### Software Engineering Student who is able to communicate effectively with a wide range of people by catering their needs with tact, diplomacy, and patience.
