@@ -2,8 +2,8 @@
 
 **This is what I'm doing these days**
 
-- 🔭 I’m currently working on ... my **Python and Pytorch** project.
-- 🌱 I’m currently learning ...**Java** skills.
+- 🔭 I’m currently working on ... my **Java Project**, and I'm building an **A_star Algorithm Visualizer** 
+- 🌱 I’m currently learning ...**Pytorch** skills.
 - 👯 I’m looking to collaborate on ... **Gaming Projects**.
 - 💬 Ask me about ...**Anything**
 - 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/idreesrazak/)
