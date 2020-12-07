@@ -10,4 +10,6 @@
 - 😄 Pronouns: ... **He/Him**
 - ⚡ Fun fact: I'm about to finish my **5th** semester.
 
+By the end of the year I will be starting my Webpage where I will be uploading some weekly content--> https://idreesshaikh.github.io/
+
 ### Software Engineering Student who is able to communicate effectively with a wide range of people by catering their needs with tact, diplomacy, and patience.
