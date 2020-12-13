@@ -12,7 +12,7 @@
 
 By the end of the year I will be starting my WEBPAGE where I will upload material every week --> https://idreesshaikh.github.io/
 
-StackOverflow: user:14815839
+[StackOverflow](https://stackoverflow.com/users/14815839/idrees-razak)
 
 <div align="center" >
   <p align="center"> Always ready to learn like the Neural Network underneath: </p> 
