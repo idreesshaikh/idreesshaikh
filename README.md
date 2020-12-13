@@ -12,7 +12,7 @@
 
 By the end of the year I will be starting my WEBPAGE where I will be uploading material every week --> https://idreesshaikh.github.io/
 
-                                    Always ready to learn like the Neural Network underneath:
+                                      Always ready to learn like the Neural Network underneath:
 <p align="center">
 <img align="center" src="https://cdn-images-1.medium.com/max/550/1*pO5X2c28F1ysJhwnmPsy3Q.gif" width="440" height="320" />
 </p>
