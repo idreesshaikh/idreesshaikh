@@ -14,12 +14,4 @@ This is my [StackOverflow](https://stackoverflow.com/users/14815839/idrees-razak
 
 By the end of the year I will be starting my WEBPAGE where I will upload material every week --> https://idreesshaikh.github.io/
 
-
-<div align="center" >
-  <p align="center"> Always ready to learn like the Neural Network underneath: </p> 
-</div>
-<p align="center" >
-  <img src="https://cdn-images-1.medium.com/max/550/1*pO5X2c28F1ysJhwnmPsy3Q.gif" width="440" height="320" />
-</p>
-
 ### Software Engineering Student who is able to communicate effectively with a wide range of people by catering their needs with tact, diplomacy, and patience.
