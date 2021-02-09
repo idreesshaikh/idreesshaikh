@@ -1,14 +1,13 @@
-## Hi there it's me IDREES 👋
+## IDREES here! 👋
 
 **This is what I'm doing these days**
 
 - 🔭 I’m currently working on ... my **Java Project**, and I'm building an **A_star Algorithm Visualizer** 
-- 🌱 I’m currently learning ...**Pytorch**.
-- 👯 I’m looking to collaborate on ... **Gaming Projects**.
+- 🌱 I’m currently learning ...**Pytorch** and **Outsystems**.
+- 👯 I’m looking to collaborate on ... **Gaming Projects** and **Machine Learning Projects**.
 - 💬 Ask me about ...**Anything**
 - 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/idreesrazak/)
 - 😄 Pronouns: ... **He/Him**
-- ⚡ Fun fact: I'm about to finish my **5th** semester.
 
 This is my [StackOverflow](https://stackoverflow.com/users/14815839/idrees-razak), and I will be answering questions to the best of knowledge. But for now I'm just getting started therfore I'd ask for some patience.
 
