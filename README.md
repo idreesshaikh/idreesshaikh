@@ -11,4 +11,4 @@
 
 By the end of the year I will be starting my WEBPAGE where I will upload material every week --> https://idreesshaikh.github.io/
 
-### Software Engineer with 2+ years of experience developing technology-driven solutions for multinational corporations. Proficient in software development and deep learning technologies, I specialize in crafting innovative products to address evolving business needs. I am a driven individual dedicated to ongoing learning and professional growth, poised to excel in your team and drive future-focused solutions.
+Software Engineer with 2+ years of experience developing technology-driven solutions for multinational corporations. Proficient in software development and deep learning technologies, I specialize in crafting innovative products to address evolving business needs. I am a driven individual dedicated to ongoing learning and professional growth, poised to excel in your team and drive future-focused solutions.
